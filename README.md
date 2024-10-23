@@ -11,8 +11,3 @@ A college project to practice the **MVC pattern** and **Object-Oriented Programm
 ## Technologies
 - **Java**
 - **Gradle** for build automation
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
